@@ -1,1 +1,0 @@
-//First ever typescript program
